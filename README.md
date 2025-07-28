@@ -67,6 +67,6 @@ open index.html
 ## 👨‍💻 Author
 
 **Engiverse Web Team**
-📧 [contact@engiverse.com](mailto:engiverse25@gmail.com)
+📧 [engiverse25@gmail.com](mailto:engiverse25@gmail.com)
 🌐 [www.engiverse.com](#)
 
