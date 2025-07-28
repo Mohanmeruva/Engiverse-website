@@ -68,5 +68,5 @@ open index.html
 
 **Engiverse Web Team**
 📧 [engiverse25@gmail.com](mailto:engiverse25@gmail.com)
-🌐 [https://mohanmeruva.github.io/Engiverse-website/](#)
+🌐 https://mohanmeruva.github.io/Engiverse-website/
 
