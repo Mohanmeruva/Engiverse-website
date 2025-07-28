@@ -1,0 +1,156 @@
+body{
+    overflow:hidden;
+}
+#navitem1{
+    color:white;
+}
+#navitem2{
+    color:white;
+}
+#navitem3{
+    color:white;
+}
+#navitem4{
+    color:white;
+}
+#navitem5{
+    color:white;
+}
+/* .navbar-toggler{
+    background-color: white;
+} */
+.nav-image{
+    width: 50px;
+    border-radius: 20%;
+}
+.nav-bg{
+    background-color: rgb(42, 42, 107);
+}
+
+
+
+
+.bg-nav-container{
+    /* padding:38px; */
+}
+.first-image{
+    width: 33%;
+    padding:0px
+}
+
+.welcome-heading{
+    /* color: #d0b200;
+     */
+     color: rgb(86, 86, 155);
+    font-family:"Roboto";
+    font-size:50px;
+    text-align: center;
+    padding:38px;
+}
+
+
+
+
+
+
+
+.bg-container {
+    height: 100vh;
+    background-color: white;
+    text-align: center;
+    padding: 28px;
+}
+
+.image {
+    width: 35%;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    padding: 16px;
+}
+
+.span {
+    color: green;
+}
+
+.button {
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+    font-size: 20px;
+    height: 40px;
+    width: 110px;
+}
+
+
+.supports{
+    font-family: "Roboto";;
+    font-size: 44px;
+    text-align:center;
+    margin: 23px;
+}
+
+
+
+.business-roles {
+    height: 100vh;
+    background-color: white;
+    padding:32px;
+    padding-top:50px;
+}
+.unordered{
+    list-style-type:none;
+    font-weight:bold;
+    font-size:24px;
+  /*  padding:32px; */
+  margin: 34px;
+}
+.list{
+    padding:6px;
+}
+.role{
+    color:green;
+}
+
+.service-container{
+    height: 100vh;
+    padding-top:50px;
+}
+
+
+.word-done-container{
+     height: 100vh;
+    background-color: white;
+    text-align: center;
+}
+.work-done{
+    font-size: 44px;
+}
+.colab-container{
+     height: 100vh;
+    background-color: white;
+    text-align: center;
+     padding-top:75px;
+}
+.colab-images{
+    padding:100px;
+}
+
+
+
+
+.about-container{
+    height: 100vh;
+    background-color: white;
+    text-align: center;
+     padding-top:75px;
+}
+.engiverse-about{
+    font-family: "Roboto";
+    font-size: 18px;
+    text-align: left;
+    
+}
